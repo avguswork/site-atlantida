@@ -695,6 +695,7 @@ body{
 }
 
 .our_team_block{
+    margin-bottom: 50px;
     display: flex;
     align-items:center;
     width: 55%;
